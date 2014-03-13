@@ -1,0 +1,86 @@
+
+.classpath
+
+.project
+
+*.prefs
+
+*.class
+
+*.plist
+
+*.jar
+
+dist/Playfair Cipher.app/Contents/MacOS/JavaAppLauncher
+
+dist/Playfair Cipher.app/Contents/PkgInfo
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/COPYRIGHT
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/LICENSE
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/README
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/zi/America/Resolute
+
+build.xml
+
+*.txt
+
+*.html
+
+*.properties
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/classlist
+
+*.pf
+
+*.data
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext/meta-index
+
+*.bfc
+
+*.src
+
+*.ttf
+
+*.dir
+
+*.dylib
+
+*.gif
+
+*.cfg
+
+*.access
+
+*.template
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/meta-index
+
+*.ja
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/security/blacklist
+
+*.policy
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/security/cacerts
+
+*.security
+
+*.libraries
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/zi/Africa/Abidjan
+
+*.png
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/zi/Africa/Accra
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/zi/Africa/Addis_Ababa
+
+dist/Playfair Cipher.app/Contents/PlugIns/jdk1.7.0_25.jdk/Contents/Home/jre/lib/zi/Africa/Algiers
+
+dist/*
+
+*.icns
